@@ -2,4 +2,4 @@ SystemTray
 ========
 Java system tray implementation example
 
-Tested on Windows 7
+Working with Java 8, tested on Windows 7
