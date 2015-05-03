@@ -7,8 +7,15 @@ import java.awt.TrayIcon;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-public class Main {
+/**
+*
+* @author David Corbin
+* https://github.com/daconex
+*
+*/
 
+public class Main {
+	
 	 public static void main(String[] args) {
 		 
 		 // Check if SystemTray is supported
