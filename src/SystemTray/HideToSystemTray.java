@@ -3,7 +3,6 @@ package SystemTray;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.JFrame;
-import javax.swing.UIManager;
 
 /**
  *
